@@ -1,0 +1,5 @@
+@import url('//dev.wikia.com/load.php?mode=articles&articles=u:dev:MediaWiki:FandomizedButtons.css&only=styles');
+
+.WikiaPage {
+  border:none;
+}
